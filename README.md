@@ -1,4 +1,5 @@
 # CODE BUDDY - YOUR CODE CHAT FRIEND
+## Made By Aryan Tiwari as a Portfolio Project
 
 A chat AI app which uses OpenAI API key to fetch a artificial intelligent based chat environment build in developement environment of VITE with server dependencies of Node js modules like CORS, DOTENV for security of server and API key, EXPRESS, and NODEMON to concate node and source code, so that changes in source code can be implemented in node
 
